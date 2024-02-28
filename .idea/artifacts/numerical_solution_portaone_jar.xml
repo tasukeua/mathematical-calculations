@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="numerical-solution-portaone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/numerical_solution_portaone_jar</output-path>
+    <root id="archive" name="numerical-solution-portaone.jar">
+      <element id="module-output" name="numerical-solution-portaone" />
+    </root>
+  </artifact>
+</component>
